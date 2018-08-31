@@ -1,4 +1,4 @@
-#include <msp430.h>
+#include <msp430fr4133.h>
 int main(void)
 {
  WDTCTL = WDTPW + WDTHOLD;           // Stop Watchdog Timer. This line of code is needed at the beginning of most MSP430 projects
