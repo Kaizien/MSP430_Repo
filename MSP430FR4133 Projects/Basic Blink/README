@@ -1,0 +1,1 @@
+This is a basic project that can be used to test the functionality of your MSP430FR4133. Use this program if you think you are having issues programming your MSP430. Once loaded, the program should blink both LED01 and LED02 simultaneously. Useful for basic hardware testing and verifying that everything is running smoothly before you run a bigger project.
